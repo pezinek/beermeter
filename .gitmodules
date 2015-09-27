@@ -1,0 +1,3 @@
+[submodule "libraries/LCDKeypad"]
+	path = libraries/LCDKeypad
+	url = https://github.com/dzindra/LCDKeypad.git

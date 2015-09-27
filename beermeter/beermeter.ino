@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-#include <LCDKeypad.h>
+#include "LCDKeypad.h"
 #include <EEPROM.h>
 
 #define FLOW_GAUGE_PIN 2
