@@ -6,8 +6,9 @@ Features:
 
 - Displays remaining beers in a keg 
 - Allows run-time calibration of pulses/liter
+- The GUI language is "Czech" ;-)
 - Allows to do "science" while drinking beer :-)
- 
+
 Hardware:
 
 - Arduino
